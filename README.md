@@ -1,6 +1,6 @@
 # MyApp: HA container in EKS (AWS managed kubernetes)
 
-## Overview
+### Overview
 
 This setup will deploy an EKS cluster in AWS, using CloudFormation. In this cluster, we will deploy a simple helloworld container, with automatic CI/CD from AWS PipeLine.
 
